@@ -1,0 +1,13 @@
+/*
+HOJA DE ESTILO
+*/
+
+textarea {height:200px !important;}
+
+.imagenfondo{
+  background-image: url("../imagenes/background.jpg");
+  background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 80%;
+  min-height: 100vh;
+}
